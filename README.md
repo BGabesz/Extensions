@@ -1,6 +1,6 @@
 Plugings
 ***
-Beautify css/sass/scss/less
+/Beautify css/sass/scss/less
 Bracket Pair Colorizer
 Getter and Setter Generator
 Name: GitHub Pull Requests and Issues

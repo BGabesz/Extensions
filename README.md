@@ -1,8 +1,8 @@
 Plugings
 ***
-Name: Beautify css/sass/scss/less
-Name: Bracket Pair Colorizer
-Name: Getter and Setter Generator
+Beautify css/sass/scss/less
+Bracket Pair Colorizer
+Getter and Setter Generator
 Name: GitHub Pull Requests and Issues
 Name: HTML CSS Support
 Name: HTML Snippets

@@ -1,6 +1,6 @@
-#Plugings
+Plugings
 Live Server
-
+***
 Prettier
 
 HTML CSS Support (Hungarian Language Pack for VS Code)

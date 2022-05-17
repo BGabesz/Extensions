@@ -71,3 +71,29 @@ php artisan migrate
 
 php artisan db:seed
 ***
+Ellenőrzések:
+	php --version
+  
+		PHP 8.0.12 (cli) (built: Oct 19 2021 11:21:05) ....
+    
+	composer -V
+  
+		Composer version 2.1.12 2021-11-09 16:02:04
+    
+	php composer.phar
+  
+		Composer version 2.1.12 2021-11-09 16:02:04
+    
+		Usage:
+    
+			command [options] [arguments] ....
+      
+
+create the project (projekt létrehozása)
+
+	cd desktop
+  
+	(C:\Users\x\Desktop>)
+  
+	composer create-project --prefer-dist laravel/laravel magyarfilmek	
+
